@@ -1,0 +1,19 @@
+ul.guessBox {
+  height: 50px;
+  margin: 10px auto 0;
+  background: #BDF9F5;
+  padding: 0.5em;
+  display: block;
+  line-height: 2em;
+  color: #615D49;
+  overflow: auto;
+}
+
+ul.guessBox li {
+  width: 100%;
+  height: auto;
+  display: inline;
+  padding-right: 15px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}

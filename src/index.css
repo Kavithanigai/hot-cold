@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 5rem auto;
+  width: 50rem;
+  height: auto;
+  padding: 0;
+  font-family: sans-serif;
+  line-height: 1.25;
+  height: auto;
+  background-color: #82ECD7;
+  /* #6B9E80; */
+  border: 2px solid #F7EEC2;
+  /* #ADBCB6; */
+  border-radius: 10px;
+  box-shadow: 25px 25px 20px #B3AF98;
+  /* #969E9B; */
+}
+
+html{
+  background-color: #E7FEF6;
+  /* #BAF2D0; */
+  height: 100%;
+  width: 100%;
+}

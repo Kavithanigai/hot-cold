@@ -1,0 +1,20 @@
+
+.guessform>input, .guessform>button{
+  display:block;
+  width: 10rem;
+  height: 2rem;
+  margin: auto;
+  background-color: #C6DFD8;
+  border-radius: 3px;
+  font-weight: bold;
+  font-size: 1rem;
+  text-align: center;
+  border-top: transparent;
+  border-left: transparent;
+  border-bottom: transparent;
+  border-right: transparent;
+}
+.guessform>button{
+  margin-top: 10px;
+  border: 2px solid #F7EEC2;
+}

@@ -1,0 +1,12 @@
+#guessCount {
+  margin: .8rem auto;
+  font-size: 0.9rem;
+}
+
+#count {
+  display: inline-block;
+  vertical-align: middle;
+  color: #f39c12;
+  font-weight: 700;
+  font-size: 1.5em;
+}

@@ -1,0 +1,18 @@
+.guesssection{
+  width: 100%;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: bold;
+}
+
+.guess-section-paragraph>h2{
+  display: inline;
+  color: #F7EEC2;
+}
+
+.guess-section-guesses{
+  background-color: #DAF7F6;
+  /* #F9E1BD; */
+  display: block;
+  height: 3rem;
+}
